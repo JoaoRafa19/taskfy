@@ -9,4 +9,3 @@ sql:
         out: "."
         package: "pgstore"
         sql_package: "pgx/v5"
-			
